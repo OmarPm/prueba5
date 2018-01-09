@@ -1,1 +1,4 @@
-dsfsfsfsfsdfsdf:
+No megusta esas palabras de Hola y Adios
+Esta es una prueba de un merge en conflicto.
+Hello .
+Good Bye.
